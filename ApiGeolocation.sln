@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiGeolocation", "ApiGeolocation\ApiGeolocation.csproj", "{70483728-574E-401D-9F04-FA097608BE07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeeolocationTests", "GeeolocationTests\GeeolocationTests.csproj", "{7608CDF9-8AA8-40AD-B931-F08300BBB512}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70483728-574E-401D-9F04-FA097608BE07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70483728-574E-401D-9F04-FA097608BE07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70483728-574E-401D-9F04-FA097608BE07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70483728-574E-401D-9F04-FA097608BE07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7608CDF9-8AA8-40AD-B931-F08300BBB512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7608CDF9-8AA8-40AD-B931-F08300BBB512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7608CDF9-8AA8-40AD-B931-F08300BBB512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7608CDF9-8AA8-40AD-B931-F08300BBB512}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45C03346-E11E-43FF-A014-62967D8E11A5}
+	EndGlobalSection
+EndGlobal
